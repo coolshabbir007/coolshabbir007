@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coolshabbir007
-- 👀 An enthusiast Web Developer
+- 👀 An enthusiastic Web Developer
 - 🌱 Geek
 - 💞️ Pursuing MCA from Anna University
 - 📫 
