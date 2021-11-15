@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @coolshabbir007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MD SHABBIR ALAM
+- 👀 Enthusiastic Web Developer
+- 🌱 I’m currently pursuing MCA from College of Engineering Guindy Anna University
+- 💞️ Keen and Quick Learner
+- 📫 Know more about me at https://coolshabbir007.github.io/portfolio
 
 <!---
 coolshabbir007/coolshabbir007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
